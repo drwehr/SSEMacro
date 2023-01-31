@@ -2,6 +2,7 @@
 
 
 ### Proposals:
+Just add your name below with a paper you want to propose.
 
 Dominik : 
 - Ramey, Valerie A. "Macroeconomic shocks and their propagation." Handbook of macroeconomics 2 (2016): 71-162. <>
