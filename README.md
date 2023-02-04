@@ -1,5 +1,10 @@
 # Reading list for SSE Macro Reading Group
 
+| Date            | Presenter     | Paper |
+| -------------   | ------------- | ------                            |
+| Feb 14th 16:00  | Yijia         | Lagos & Wright (2005), JPE        |
+| Feb 28th 16:00  | Dominik       | Ramey (2016), HoMacro             |
+
 
 ### Proposals:
 Just add your name below with a paper you want to propose.
