@@ -5,6 +5,7 @@
 | Feb 14th 16:00  | Yijia         | Lagos & Wright (2005), JPE        |
 | Feb 28th 16:00  | Dominik       | Shimer (2005), AER            |
 | Mar 14th 16:00  | Alex          | Acemoglu & Restrepo (2018), AER   |
+| Mar 28th 16:00  | Yifan         | Lilia Maliara, Serguei Maliarb, Pablo Winant (2021) JME   |
 
 
 ### Proposals:
@@ -18,3 +19,6 @@ Yijia :
 
 Alex:
 - Acemoglu, D., & Restrepo, P. (2018). The race between man and machine: Implications of technology for growth, factor shares, and employment. American economic review, 108(6), 1488-1542.
+
+Yifan:
+- Lilia Maliara, Serguei Maliarb, Pablo Winant (2021). Deep learning for solving dynamic economic models. JME, 122 76-101.
