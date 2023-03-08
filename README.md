@@ -14,7 +14,7 @@
 Just add your name below with a paper you want to propose.
 
 Dominik : 
-- ~~Shimer, R. (2005). The cyclical behavior of equilibrium unemployment and vacancies. American economic review, 95(1), 25-49.
+- ~~Shimer, R. (2005). The cyclical behavior of equilibrium unemployment and vacancies. American economic review, 95(1), 25-49.~~
 - Menzio, G., & Shi, S. (2011). Efficient search on the job and the business cycle. Journal of Political Economy, 119(3), 468-510.
 
 Yijia :
