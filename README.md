@@ -18,7 +18,7 @@ Dominik :
 - Menzio, G., & Shi, S. (2011). Efficient search on the job and the business cycle. Journal of Political Economy, 119(3), 468-510.
 
 Yijia :
-- ~~Ricardo Lagos & Randall Wright, 2005. "A Unified Framework for Monetary Theory and Policy Analysis," Journal of Political Economy, University of Chicago Press, vol. 113(3), pages 463-484, June.
+- ~~Ricardo Lagos & Randall Wright, 2005. "A Unified Framework for Monetary Theory and Policy Analysis," Journal of Political Economy, University of Chicago Press, vol. 113(3), pages 463-484, June.~~
 
 Alex:
 - Guerrieri, V., & Lorenzoni, G. (2017). Credit crises, precautionary savings, and the liquidity trap. The Quarterly Journal of Economics, 132(3), 1427-1467.
