@@ -8,7 +8,7 @@
 | Mar 28th 16:00  | Yifan         | Lilia Maliara, Serguei Maliarb, Pablo Winant (2021) JME |
 | April 11th 16:00 (tbd) | tbd    | tbd   |
 | April 25th 16:00 |    tbd         | tbd |
-| May 9th 16:00 | Dominik         | Menzio & Shi (2011) |
+| May 9th 16:00 |tbd      |tbd |
 
 ### Proposals:
 Just add your name below with a paper you want to propose.
