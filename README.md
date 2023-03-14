@@ -6,7 +6,7 @@
 | Feb 28th 16:00  | Dominik       | Shimer (2005), AER                |
 | Mar 14th 16:00  | Alex          | Guerrieri & Lorenzoni (2017), QJE |
 | Mar 28th 16:00  | Yifan         | Lilia Maliara, Serguei Maliarb, Pablo Winant (2021) JME |
-| April 11th 16:00 (tbd) | tbd    | tbd   |
+| April 18th 16:00 (tbd) | tbd    | tbd   |
 | April 25th 16:00 |    tbd         | tbd |
 | May 9th 16:00 |tbd      |tbd |
 
