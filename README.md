@@ -21,7 +21,7 @@ Yijia :
 - ~~Ricardo Lagos & Randall Wright, 2005. "A Unified Framework for Monetary Theory and Policy Analysis," Journal of Political Economy, University of Chicago Press, vol. 113(3), pages 463-484, June.~~
 
 Alex:
-- ~~Guerrieri, V., & Lorenzoni, G. (2017). Credit crises, precautionary savings, and the liquidity trap. The Quarterly Journal of Economics, 132(3), 1427-1467.
+- ~~Guerrieri, V., & Lorenzoni, G. (2017). Credit crises, precautionary savings, and the liquidity trap. The Quarterly Journal of Economics, 132(3), 1427-1467.~~
 - Domeij, D., & Heathcote, J. (2004). On the distributional effects of reducing capital taxes. International economic review, 45(2), 523-554.
 - Christiano, L., Eichenbaum, M., & Rebelo, S. (2011). When is the government spending multiplier large?. Journal of Political Economy, 119(1), 78-121.
 
