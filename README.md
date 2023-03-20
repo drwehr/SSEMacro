@@ -5,8 +5,8 @@
 | Feb 14th 16:00  | Yijia         | Lagos & Wright (2005), JPE        |
 | Feb 28th 16:00  | Dominik       | Shimer (2005), AER                |
 | Mar 14th 16:00  | Alex          | Guerrieri & Lorenzoni (2017), QJE |
-| Mar 28th 16:00  | Yifan         | Lilia Maliara, Serguei Maliarb, Pablo Winant (2021) JME |
-| April 18th 16:00 (tbd) | tbd    | tbd   |
+| Mar 28th 16:00  | Manuel         | Diamond & Dybvig (1983), JPE |
+| April 18th 16:00 | Yifan    | Lilia Maliara, Serguei Maliarb, Pablo Winant (2021) JME   |
 | April 25th 16:00 |    tbd         | tbd |
 | May 9th 16:00 |tbd      |tbd |
 
@@ -27,3 +27,6 @@ Alex:
 
 Yifan:
 - Lilia Maliara, Serguei Maliarb, Pablo Winant (2021). Deep learning for solving dynamic economic models. JME, 122 76-101.
+
+Manuel:
+- ~~Diamond, Douglas W., & Phillip H. Dybvig. (1983). "Bank Runs, Deposit Insurance and Liquidity" Journal of Political Economy, 91(3): 401-19.
