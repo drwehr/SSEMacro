@@ -29,4 +29,4 @@ Yifan:
 - Lilia Maliara, Serguei Maliarb, Pablo Winant (2021). Deep learning for solving dynamic economic models. JME, 122 76-101.
 
 Manuel:
-- ~~Diamond, Douglas W., & Phillip H. Dybvig. (1983). "Bank Runs, Deposit Insurance and Liquidity" Journal of Political Economy, 91(3): 401-19. ~~
+- ~~Diamond, Douglas W., & Phillip H. Dybvig. (1983). "Bank Runs, Deposit Insurance and Liquidity" Journal of Political Economy, 91(3): 401-19.~~
