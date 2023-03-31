@@ -7,7 +7,7 @@
 | Mar 14th 16:00  | Alex          | Guerrieri & Lorenzoni (2017), QJE |
 | Mar 28th 16:00  | Manuel         | Diamond & Dybvig (1983), JPE |
 | April 18th 16:00 | Yifan    | Lilia Maliara, Serguei Maliarb, Pablo Winant (2021) JME   |
-| April 25th 16:00 |    tbd         | tbd |
+| April 25th 16:00 | Yijia        | Kiyotaki & Moore (1997), JPE |
 | May 9th 16:00 |tbd      |tbd |
 
 ### Proposals:
