@@ -19,6 +19,7 @@ Dominik :
 
 Yijia :
 - ~~Ricardo Lagos & Randall Wright, 2005. "A Unified Framework for Monetary Theory and Policy Analysis," Journal of Political Economy, University of Chicago Press, vol. 113(3), pages 463-484, June.~~
+- Kiyotaki, N., & Moore, J. (1997). Credit cycles. Journal of political economy, 105(2), 211-248.
 
 Alex:
 - ~~Guerrieri, V., & Lorenzoni, G. (2017). Credit crises, precautionary savings, and the liquidity trap. The Quarterly Journal of Economics, 132(3), 1427-1467.~~
